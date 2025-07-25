@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm ALFA</h1>
 <h3 align="center">a student who studies software and design</h3>
 
-- iam working on **percobaan 1**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
