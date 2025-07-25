@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ALFA</h1>
 <h3 align="center">a student who studies software and design</h3>
 
-
+<p>Saya cuman iseng iseng belajar yang namanya software dan design,<br>eh kok taunya cocok jadi saya coba belajar lebi dalam lagi/p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/alfffff08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alfffff08" height="30" width="40" /></a>
