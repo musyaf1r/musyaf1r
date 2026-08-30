@@ -1,3 +1,7 @@
+<img src="https://i.pinimg.com/736x/e5/67/64/e56764c694df185dc1e27a90dabba816.jpg" width="100%" alt="banner"/>
+
+<br/>
+
 # Hi there 👋
 
 **AL** — Student Developer, based in Malang, Indonesia.
