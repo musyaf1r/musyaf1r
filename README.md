@@ -1,51 +1,32 @@
+<div align="center">
 <img src="https://i.pinimg.com/736x/e5/67/64/e56764c694df185dc1e27a90dabba816.jpg" width="100%" alt="banner"/>
+</div>
 
 <br/>
 
-# Hi there 👋
-
-**AL** — Student Developer, based in Malang, Indonesia.
-
-I'm currently studying at SMK Telkom Malang and mostly build things on the frontend, with backend/database work on the side. I like writing clean, maintainable code and designing interfaces that feel intuitive. Open to collaboration and real-world projects — feel free to reach out.
-
-<br/>
-
-## Languages & Tools
-
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Prisma](https://img.shields.io/badge/PRISMA-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/POSTGRES-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Neon](https://img.shields.io/badge/NEON-00E599?style=flat-square&logo=postgresql&logoColor=000)
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Clerk](https://img.shields.io/badge/CLERK-6C47FF?style=flat-square&logo=clerk&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/SHADCN%2FUI-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white)
-
-<br/>
-
-## Stats
-
-<table>
+<table width="100%">
 <tr>
-<td valign="top">
+<td width="70%" valign="top">
 
-**GitHub Stats**
+# AL
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=dark&hide_title=true&count_private=true)
+**Student Developer** — Malang, Indonesia 🇮🇩
+
+```
+$ whoami
+> frontend-leaning full-stack builder
+> SMK Telkom Malang
+> ships clean code, one commit at a time
+```
+
+Currently deep in the **React / Next.js / TypeScript** ecosystem, pairing it with **Prisma + Neon** on the backend and **Clerk** for auth. I care about code that's easy to read six months from now, and interfaces that don't need a manual.
+
+Open to collabs, feedback, and real-world projects — hit me up below.
 
 </td>
-<td valign="top">
+<td width="30%" align="center" valign="middle">
 
-**Top Languages**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=dark&hide_title=true)
+![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
 </td>
 </tr>
@@ -53,14 +34,55 @@ I'm currently studying at SMK Telkom Malang and mostly build things on the front
 
 <br/>
 
-## Get in Touch
+<div align="center">
 
-Are you interested in collaboration? I'm up for interesting projects — get in touch through the links below.
+### ⚡ STACK
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/htcntk_15)
-[![Saweria](https://img.shields.io/badge/Saweria-FF6B35?style=flat-square&logo=kofi&logoColor=white)](https://saweria.co/musyafir)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,java,figma&theme=dark" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=prisma,postgres,mysql,git,vscode,github&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/NEON-00E599?style=for-the-badge&logo=postgresql&logoColor=000"/>
+<img src="https://img.shields.io/badge/CLERK-6C47FF?style=for-the-badge&logo=clerk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SHADCN%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
+
+</div>
 
 <br/>
 
-<sub>Profile views: ![Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=grey) </sub>
+<div align="center">
+
+### 📊 ACTIVITY
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=dracula&bg_color=00000000&title_color=FF79C6&icon_color=BD93F9&text_color=F8F8F2&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=dracula&bg_color=00000000&title_color=FF79C6&text_color=F8F8F2" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=dracula&background=00000000&ring=FF79C6&fire=BD93F9&currStreakLabel=FF79C6"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🔗 CONNECT
+
+<a href="https://instagram.com/htcntk_15"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://saweria.co/musyafir"><img src="https://img.shields.io/badge/SAWERIA-FF6B35?style=for-the-badge&logo=kofi&logoColor=white"/></a>
+<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=BD93F9&label=PROFILE+VIEWS"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<sub>built with focus & clean code · © 2026</sub>
+</div>
