@@ -8,7 +8,8 @@
 ---
 
 ## 📌 About Me
-- 🔭 Currently learning: **HTML, CSS, JavaScript, Java, Figma, MySQL**
+- 🔭 Currently learning: **HTML, CSS, JavaScript, TypeScript, React, Next.js, Java, MySQL, PostgreSQL**
+- 🛠️ Exploring: **Prisma, shadcn/ui, Neon, Clerk**
 - 💡 Focused on writing maintainable code and designing intuitive interfaces
 - 🌱 Open to collaborations, feedback, and real-world projects
 - 📫 Let's connect: [Instagram](https://instagram.com/htcntk_15) • [Saweria](https://saweria.co/musyafir)
@@ -16,6 +17,7 @@
 ---
 
 ## 🛠️ Tech Stack
+
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -26,11 +28,35 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript"/>
   </a>
+  <a href="https://www.typescriptlang.org" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  </a>
+  <a href="https://react.dev" target="_blank">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  </a>
+  <a href="https://nextjs.org" target="_blank">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  </a>
   <a href="https://www.java.com" target="_blank">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   </a>
   <a href="https://www.mysql.com" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  </a>
+  <a href="https://neon.tech" target="_blank">
+    <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=postgresql&logoColor=000" alt="Neon"/>
+  </a>
+  <a href="https://www.prisma.io" target="_blank">
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+  </a>
+  <a href="https://ui.shadcn.com" target="_blank">
+    <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
+  </a>
+  <a href="https://clerk.com" target="_blank">
+    <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk"/>
   </a>
   <a href="https://www.figma.com" target="_blank">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
@@ -43,6 +69,7 @@
 ---
 
 ## 📊 GitHub Activity
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github-dark&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github-dark&hide_border=true" alt="Top Languages" height="170"/>
@@ -53,6 +80,7 @@
 ---
 
 ## 🤝 Connect & Support
+
 <p align="center">
   <a href="https://instagram.com/htcntk_15" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
