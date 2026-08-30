@@ -42,8 +42,8 @@ Building clean interfaces and code that's easy to read six months from now. Open
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=dracula&bg_color=00000000&title_color=FF79C6&icon_color=BD93F9&text_color=F8F8F2&count_private=true&hide_rank=true" height="140"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=dracula&bg_color=00000000&title_color=FF79C6&text_color=F8F8F2" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=dracula&bg_color=0d1117&title_color=FF79C6&icon_color=BD93F9&text_color=F8F8F2&count_private=true&hide_rank=true" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=dracula&bg_color=0d1117&title_color=FF79C6&text_color=F8F8F2" height="140"/>
 
 </div>
 
