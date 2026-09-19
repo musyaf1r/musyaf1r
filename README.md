@@ -40,23 +40,4 @@ Currently sharpening my skills with real projects, open to collaboration, feedba
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=musyaf1r&show_icons=true&hide_border=true&theme=dracula&bg_color=0d1117&title_color=FF79C6&icon_color=BD93F9&text_color=F8F8F2&count_private=true&hide_rank=true" height="140"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musyaf1r&layout=compact&hide_border=true&theme=dracula&bg_color=0d1117&title_color=FF79C6&text_color=F8F8F2" height="140"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-<sub><img src="https://komarev.com/ghpvc/?username=musyaf1r&style=flat&color=BD93F9" height="18"/></sub>
-<br/>
 <sub>built with focus & clean code · © 2026</sub>
-</div>
