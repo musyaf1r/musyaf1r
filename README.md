@@ -37,7 +37,4 @@ Currently sharpening my skills with real projects, open to collaboration, feedba
 </div>
 
 <br/>
-
-### 📊 GitHub Stats
-
 <sub>built with focus & clean code · © 2026</sub>
