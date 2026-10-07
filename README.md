@@ -5,6 +5,7 @@
 <br/><br/>
 
 <a href="https://instagram.com/htcntk_15"><img src="https://img.shields.io/badge/📷_INSTAGRAM-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
+<a href="https://wa.me/6283130098468"><img src="https://img.shields.io/badge/💬_WHATSAPP-161B22?style=for-the-badge&logo=whatsapp&logoColor=25D366"/></a>
 <a href="https://saweria.co/musyafir"><img src="https://img.shields.io/badge/☕_SAWERIA-161B22?style=for-the-badge&logo=kofi&logoColor=FF6B35"/></a>
 <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/✉_EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
 
